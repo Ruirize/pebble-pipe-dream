@@ -9,6 +9,41 @@
     "resources": {
         "media": [
             {
+                "file": "images/tile.png",
+                "name": "IMAGE_TILE",
+                "type": "png"
+            },
+            {
+                "file": "images/pipe_vertical.png",
+                "name": "IMAGE_PIPE_VERTICAL",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/pipe_tee.png",
+                "name": "IMAGE_PIPE_TEE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/pipe_plus.png",
+                "name": "IMAGE_PIPE_PLUS",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/pipe_horizontal.png",
+                "name": "IMAGE_PIPE_HORIZONTAL",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/pipe_elbow.png",
+                "name": "IMAGE_PIPE_ELBOW",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/pipe_connector.png",
+                "name": "IMAGE_PIPE_CONNECTOR",
+                "type": "png-trans"
+            },
+            {
                 "file": "images/background.png",
                 "name": "IMAGE_BACKGROUND",
                 "type": "png"
