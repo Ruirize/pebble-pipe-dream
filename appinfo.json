@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "ruirize@gmail.com",
+    "longName": "Pipe Dream",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Pipe Dream",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "616cbf7c-4763-4b6f-93b0-29c32f33d2ff",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
