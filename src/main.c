@@ -26,8 +26,8 @@ static void init() {
   bitmap_background = gbitmap_create_with_resource(RESOURCE_ID_IMAGE_BACKGROUND);
   
   GColor8 *palette_background = gbitmap_get_palette(bitmap_background);
-  palette_background[4] = (GColor8){.argb = 0b11000011};
-  palette_background[5] = (GColor8){.argb = 0b11000001};
+  palette_background[1] = (GColor8){.argb = 0b11001100};
+  palette_background[3] = (GColor8){.argb = 0b11000100};
   gbitmap_set_palette(bitmap_background, palette_background, true);
   
   layer_background = bitmap_layer_create(GRect(0, 0, 144, 168));
